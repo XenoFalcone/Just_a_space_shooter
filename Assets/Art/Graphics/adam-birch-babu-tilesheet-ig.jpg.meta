@@ -1,0 +1,677 @@
+fileFormatVersion: 2
+guid: 31940ae77404e5f43a25c5926ef66af7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: adam-birch-babu-tilesheet-ig_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1043.2
+        width: 260.8
+        height: 260.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c51d44edeba024882c152d93482cc7
+      internalID: 739383929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam-birch-babu-tilesheet-ig_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1043.2
+        width: 260.8
+        height: 260.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce92aa959d131854ea70467d73489ddc
+      internalID: 1435019316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam-birch-babu-tilesheet-ig_2
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1043.2
+        width: 260.8
+        height: 260.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f795017d95d064593ef53406eb46b6
+      internalID: 703308635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam-birch-babu-tilesheet-ig_3
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1043.2
+        width: 260.8
+        height: 260.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c845a1365bba94bbf0d6acf7370d6b
+      internalID: 699100051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam-birch-babu-tilesheet-ig_4
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1043.2
+        width: 260.8
+        height: 260.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc24be03c3ec684fa56718054009aa5
+      internalID: 1697898436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam-birch-babu-tilesheet-ig_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 783.2
+        width: 260.8
+        height: 260.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40d0c5e6a51c4a4687577d5e6c04b2a
+      internalID: -475313835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam-birch-babu-tilesheet-ig_6
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 783.2
+        width: 260.8
+        height: 260.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6265f1611c5380b4eb0e22e0c7a92612
+      internalID: 108484421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam-birch-babu-tilesheet-ig_7
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 783.2
+        width: 260.8
+        height: 260.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac526e08f841cd24d9566cb82b8480bf
+      internalID: -382363306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam-birch-babu-tilesheet-ig_8
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 783.2
+        width: 260.8
+        height: 260.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1297be540bc604da1d35d7421db6c6
+      internalID: 1396842972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam-birch-babu-tilesheet-ig_9
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 783.2
+        width: 260.8
+        height: 260.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819e34163eef31042a7a934762423079
+      internalID: 857168575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam-birch-babu-tilesheet-ig_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 523.2
+        width: 260.8
+        height: 260.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7df3287a81e1842a57fb2289c760d0
+      internalID: 885939093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam-birch-babu-tilesheet-ig_11
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 523.2
+        width: 260.8
+        height: 260.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fd0c7290c144b478173d2b0616bb98
+      internalID: 1670710282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam-birch-babu-tilesheet-ig_12
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 523.2
+        width: 260.8
+        height: 260.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02b23d5426344a47aa17b8399a713b4
+      internalID: 1282447082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam-birch-babu-tilesheet-ig_13
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 523.2
+        width: 260.8
+        height: 260.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c83113958687f45aee71cafa90c689
+      internalID: 498376242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam-birch-babu-tilesheet-ig_14
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 523.2
+        width: 260.8
+        height: 260.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d2c89ef2cccb64fb7b8882bf5573b5
+      internalID: -934324643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam-birch-babu-tilesheet-ig_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263.2
+        width: 260.8
+        height: 260.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e83da723c0a6c41a1f834d4e2b2384
+      internalID: -197319747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam-birch-babu-tilesheet-ig_16
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 263.2
+        width: 260.8
+        height: 260.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d254d05b45c60d4a8bdd2d38a015fe8
+      internalID: 1298441296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam-birch-babu-tilesheet-ig_17
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 263.2
+        width: 260.8
+        height: 260.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb4b757e04045146bde6461ad159350
+      internalID: 771184146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam-birch-babu-tilesheet-ig_18
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 263.2
+        width: 260.8
+        height: 260.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b481b4f42b90849a97da1b9a0327ed
+      internalID: -1502524740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam-birch-babu-tilesheet-ig_19
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 263.2
+        width: 260.8
+        height: 260.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69a18b696b8f75428f66bc47ee62a06
+      internalID: -142452963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam-birch-babu-tilesheet-ig_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.2000122
+        width: 260.8
+        height: 260.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b0131168c37fc448a9dd062f2f388e
+      internalID: 1199017961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam-birch-babu-tilesheet-ig_21
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 3.2000122
+        width: 260.8
+        height: 260.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc4ce57c171f4442a4da14414664a0d
+      internalID: -1723017094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam-birch-babu-tilesheet-ig_22
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 3.2000122
+        width: 260.8
+        height: 260.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203c9d58f0879744684664b4289ceaa3
+      internalID: -347312087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam-birch-babu-tilesheet-ig_23
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 3.2000122
+        width: 260.8
+        height: 260.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6957a51ae41cef42b4187f682da2591
+      internalID: -1944831361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam-birch-babu-tilesheet-ig_24
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 3.2000122
+        width: 260.8
+        height: 260.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174dd3cc52261ed438cc7457f82faa21
+      internalID: -907877008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      adam-birch-babu-tilesheet-ig_0: 739383929
+      adam-birch-babu-tilesheet-ig_1: 1435019316
+      adam-birch-babu-tilesheet-ig_10: 885939093
+      adam-birch-babu-tilesheet-ig_11: 1670710282
+      adam-birch-babu-tilesheet-ig_12: 1282447082
+      adam-birch-babu-tilesheet-ig_13: 498376242
+      adam-birch-babu-tilesheet-ig_14: -934324643
+      adam-birch-babu-tilesheet-ig_15: -197319747
+      adam-birch-babu-tilesheet-ig_16: 1298441296
+      adam-birch-babu-tilesheet-ig_17: 771184146
+      adam-birch-babu-tilesheet-ig_18: -1502524740
+      adam-birch-babu-tilesheet-ig_19: -142452963
+      adam-birch-babu-tilesheet-ig_2: 703308635
+      adam-birch-babu-tilesheet-ig_20: 1199017961
+      adam-birch-babu-tilesheet-ig_21: -1723017094
+      adam-birch-babu-tilesheet-ig_22: -347312087
+      adam-birch-babu-tilesheet-ig_23: -1944831361
+      adam-birch-babu-tilesheet-ig_24: -907877008
+      adam-birch-babu-tilesheet-ig_3: 699100051
+      adam-birch-babu-tilesheet-ig_4: 1697898436
+      adam-birch-babu-tilesheet-ig_5: -475313835
+      adam-birch-babu-tilesheet-ig_6: 108484421
+      adam-birch-babu-tilesheet-ig_7: -382363306
+      adam-birch-babu-tilesheet-ig_8: 1396842972
+      adam-birch-babu-tilesheet-ig_9: 857168575
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
